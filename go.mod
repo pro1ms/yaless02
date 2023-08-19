@@ -1,3 +1,3 @@
-module yaless02
+module github.com/pro1ms/yaless02
 
 go 1.20
